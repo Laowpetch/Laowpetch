@@ -4,6 +4,5 @@ My name is Laowpetch. I’m currently studying computer engineering at King Mong
 <br />
 Contact me : ton290745@gmail.com
 <br />
-<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laowpetch&theme=tokyonight&layout=compact&align=center&card_width=1000)
