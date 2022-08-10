@@ -1,9 +1,8 @@
 ### Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"></a>
 <br />
-<br />
 <p align="center">My name is Laowpetch. I’m currently studying computer engineering at King Mongkut's Institute of Technology Ladkrabang. I'm interested in frontend development and cyber security.<p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laowpetch&theme=tokyonight)
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laowpetch&theme=tokyonight)<p>
 <!--
 **Laowpetch/Laowpetch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
