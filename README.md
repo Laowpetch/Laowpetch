@@ -2,4 +2,4 @@
 <br />
 <p align="center">My name is Laowpetch. I’m currently studying computer engineering at King Mongkut's Institute of Technology Ladkrabang. I'm interested in frontend development and cyber security.<p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laowpetch&theme=tokyonight&layout=compact&width=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laowpetch&theme=tokyonight&layout=compact&width=200)
